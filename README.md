@@ -2,7 +2,9 @@
 
 This repo consists of most of the exercises I had to do from my Software Systems module in university.
 I have not finished all of them but some projects such as the hotel managing system and the AI tictactoe game are fully finished.
-All files are written in java most of them have prewritten tests in the "test" folder.
+All files are written in java most of them have prewritten tests in the test/ss folder.
+
+NOTE: "production/SoftwareSystems" and "test/SoftwareSystems/ss" need to be in one folder but I messed up the upload ¯\_(ツ)_/¯
 
 TicTacToe - This folder includes a full-fledged tictactoe game in which the player can choose to either play with another player on the same computer or play
 against the AI. The AI has three difficulties the player can choose. The game also has a text-based graphical user interface.
